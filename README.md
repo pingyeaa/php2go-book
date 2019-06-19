@@ -20,7 +20,7 @@
     * 数据存储容器
         - [数组](container/array-and-slice.md)
         - [切片](container/array-and-slice.md)
-        - 映射
+        - [映射](container/map.md)
         - 列表
     * 流程控制
         - 条件判断
