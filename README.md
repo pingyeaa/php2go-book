@@ -14,12 +14,12 @@
     * 基础语法
         - 变量
         - 常量
-        - 字符串
+        - [字符串](base/strings.md)
         - 数值
         - 类型别名
     * 数据存储容器
-        - 数组
-        - 切片
+        - [数组](container/array-and-slice.md)
+        - [切片](container/array-and-slice.md)
         - 映射
         - 列表
     * 流程控制
