@@ -159,6 +159,6 @@ web03    | 172.24.0.2 - - [26/Jun/2019:04:42:36 +0000] "GET / HTTP/1.0" 304 0 "-
 再次刷新，可以看到请求通过web01转发到了web03，到目前为止，基本的负载均衡部署就已经完成了，上述的web01是将请求均衡转发到web02、web03的，这种方法叫轮询法，下篇文章介绍几种其他的负载算法。
 
 ---
-如果你是PHP从业者，又对Golang感兴趣
-欢迎加入开源书籍项目，共同完成《PHPer玩转Golang》
-Github入口: [EnochZg/php2go-book](https://github.com/EnochZg/php2go-book)
+欢迎入伙Github开源书籍
+- [《PHPer玩转Golang》](https://github.com/EnochZg/php2go-book)
+- [《徒手搭建微服务》](https://github.com/EnochZg/building-microservices-book)
