@@ -64,8 +64,8 @@
     - 游戏
     - 人工智能
     - 存储引擎
-    - 微服务
-        - Nginx
+    - [微服务](projects/microservices)
+        - [Nginx](projects/microservices)
             - [Nginx反向代理负载均衡容器化部署](projects/microservices/docker-nginx-01.md)
     - 安全
 
